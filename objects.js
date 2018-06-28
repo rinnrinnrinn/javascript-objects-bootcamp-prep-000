@@ -1,4 +1,4 @@
-var playlist = {Beyonce:"single ladies", Spoon:"song", beatles:"yellow submarine"};
+var playlist = {Slowdive:"single ladies", MyBloodyValentine:"song", PhilOchs:"yellow submarine"};
 
 Object.assign({}, playlist, {Beyonce: "lemonade"})
 
